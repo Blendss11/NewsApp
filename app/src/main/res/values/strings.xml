@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="content_img_news">image news</string>
+    <string name="loading">Getting News</string>
+    <string name="content_image_news_headline">Image news Headline</string>
+    <string name="searchop">Search</string>
+    <string name="searchhit">Search Your News</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="option_search">Search</string>
+    <string name="news_detail">News Detail</string>
+    <string name="no_news_text">NO News About it</string>
+</resources>
